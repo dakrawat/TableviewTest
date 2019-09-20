@@ -12,6 +12,7 @@
 		0092650B2335168700935A36 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 009265092335168700935A36 /* Main.storyboard */; };
 		0092650D2335168E00935A36 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 0092650C2335168E00935A36 /* Assets.xcassets */; };
 		009265102335168E00935A36 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0092650E2335168E00935A36 /* LaunchScreen.storyboard */; };
+		00CCBBD923354FAB00E3C116 /* MyTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 00CCBBD823354FAB00E3C116 /* MyTableViewCell.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		0092650C2335168E00935A36 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		0092650F2335168E00935A36 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		009265112335168E00935A36 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		00CCBBD823354FAB00E3C116 /* MyTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyTableViewCell.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,6 +59,7 @@
 				009265052335168700935A36 /* AppDelegate.swift */,
 				009265072335168700935A36 /* ViewController.swift */,
 				009265092335168700935A36 /* Main.storyboard */,
+				00CCBBD823354FAB00E3C116 /* MyTableViewCell.swift */,
 				0092650C2335168E00935A36 /* Assets.xcassets */,
 				0092650E2335168E00935A36 /* LaunchScreen.storyboard */,
 				009265112335168E00935A36 /* Info.plist */,
@@ -137,6 +140,7 @@
 			files = (
 				009265082335168700935A36 /* ViewController.swift in Sources */,
 				009265062335168700935A36 /* AppDelegate.swift in Sources */,
+				00CCBBD923354FAB00E3C116 /* MyTableViewCell.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
